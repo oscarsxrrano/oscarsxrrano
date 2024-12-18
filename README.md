@@ -43,9 +43,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarsxrrano&theme=blue-red" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsxrrano&theme=blue-red" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscarsxrrano&theme=blue-red" alt="GitHub Streak">
   <img src="https://github-profile-trophy.vercel.app/?username=oscarsxrrano&theme=blue-red" alt="Trophies">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=oscarsxrrano&theme=blue-red" alt="Activity Graph">
 </div>
