@@ -12,7 +12,7 @@
 - 🎓 **Currently studying**: I'm a **DAW** (Web Application Development) student at the **Institut Tecnològic de Barcelona**.
 - 🌍 **Location**: Barcelona, Spain.
 - ❤️ **Passion for programming**: I love building dynamic and functional web and mobile applications.
-- 📊 **My favorite languages**: Kotlin, JavaScript, SQL, Vue3, and PHP.
+- 📊 **My favorite languages**: Kotlin, JavaScript, SQL, Vue, and PHP.
 
 ---
 
@@ -20,7 +20,6 @@
 
 - **Frontend**: Vue.js, JavaScript, HTML5, CSS3.
 - **Backend**: PHP, SQL, Node.js.
-- **Frameworks**: Vue3
 - **Databases**: MySQL, SQLite.
 - **Mobile Development**: Kotlin (Android).
 - **Tools & Platforms**: Git, Visual Studio Code, IntelliJ IDEA.
@@ -44,5 +43,9 @@
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarsxrrano&theme=blue-red" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsxrrano&theme=blue-red" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscarsxrrano&theme=blue-red" alt="GitHub Streak">
+  <img src="https://github-profile-trophy.vercel.app/?username=oscarsxrrano&theme=blue-red" alt="Trophies">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=oscarsxrrano&theme=blue-red" alt="Activity Graph">
 </div>
